@@ -12,7 +12,7 @@ exclude : true
     <meta name="x-apple-disable-message-reformatting">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="telephone=no" name="format-detection">
-    <title>Presenter Information - FYP Conference for Computing | SCS PSB Student Chapter</title>
+    <title>Presenter Information – FYP Conference for Computing | SCS PSB Student Chapter</title>
     <!--[if (mso 16)]> <style type="text/css"> a {text-decoration: none;} </style> <![endif]-->
     <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]-->
     <!--[if !mso]><!-- -->
@@ -514,7 +514,7 @@ a {
                                                                                     </td>
                                                                                 </tr>
                                                                                 <tr style="border-collapse: collapse;">
-                                                                                    <td align="left" class="esd-block-text es-p20t es-p15l" style="padding: 0; Margin: 0; padding-left: 15px; padding-top: 20px;">
+                                                                                    <td align="left" class="esd-block-text es-p20t es-p10r es-p15l" style="padding: 0; Margin: 0; padding-right: 10px; padding-left: 15px; padding-top: 20px;">
                                                                                         <p style="Margin: 0; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; line-height: 150%; color: #333333; font-family: roboto, 'helvetica neue', helvetica, arial, sans-serif; font-size: 15px;">We hope that you're interested to share your FYP project and inspire fellow students of PSB SET! See you on August 29th! 😊</p>
                                                                                     </td>
                                                                                 </tr>
