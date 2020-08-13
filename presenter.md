@@ -84,7 +84,7 @@ a {
 .es-footer-body ul li,
 .es-footer-body ol li,
 .es-footer-body a {
-    font-size: 10px !important;
+    font-size: 12px !important;
   }
 
   .es-infoblock p,
@@ -304,7 +304,7 @@ a {
                                                                                     </td>
                                                                                 </tr>
                                                                                 <tr style="border-collapse: collapse;">
-                                                                                    <td align="center" class="esd-block-image" style="padding: 0; Margin: 0; font-size: 0px;"><a target="_blank" style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; font-family: Roboto, sans-serif; font-size: 14px; text-decoration: none; color: #666;"><img class="adapt-img" src="https://www.dl.dropboxusercontent.com/s/36a1f4njmeahue4/FYPConference_Agenda.PNG" alt="" style="border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" width="600"></a></td>
+                                                                                    <td align="center" class="esd-block-image es-p15r es-p15l" style="padding: 0; Margin: 0; padding-left: 15px; padding-right: 15px; font-size: 0px;"><a target="_blank" style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; font-family: Roboto, sans-serif; font-size: 14px; text-decoration: none; color: #666;"><img class="adapt-img" src="https://www.dl.dropboxusercontent.com/s/1u05lpyox7xf81i/FYPConference_AgendaSC.PNG" alt="" style="border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" width="570"></a></td>
                                                                                 </tr>
                                                                                 <tr style="border-collapse: collapse;">
                                                                                     <td align="left" class="esd-block-text es-p20t es-p10r es-p15l" esd-links-color="#666666" esd-links-underline="underline" style="padding: 0; Margin: 0; padding-right: 10px; padding-left: 15px; padding-top: 20px;">
